@@ -4,7 +4,6 @@
 // console.log(marks);
 // console.log(marks.length);
 
-
 // let arr = [100, 30, "smriti", true];
 // console.log(arr);
 // console.log(arr.toString());
@@ -14,7 +13,6 @@
 
 // arr[1] = "Anish";
 // console.log(arr);
-
 
 // arr.push("Buggi");
 // console.log(arr);
