@@ -195,7 +195,8 @@
 //     {
 //         return balance;
 //     }
-    
+
+
 // }
 // user.balance="smriti";        //the balance function is accessible to the outer access to which is unsafe for data storage
 
